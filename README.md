@@ -1,1 +1,2 @@
 # Project_01
+Our project, a Portable Music Player Web Application, is an innovative fusion of digital music technology and web development. Created using HTML, CSS, and JavaScript, this application simulates the functionality of portable digital music players, offering users a virtual music playback experience akin to traditional MP3 devices. Through this endeavor, we've delved into various facets of computer science, gaining valuable insights into online application development and its pivotal role in modern technology.
